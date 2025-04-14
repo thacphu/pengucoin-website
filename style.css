@@ -1,1 +1,19 @@
-
+body {
+  font-family: sans-serif;
+  background: linear-gradient(to bottom, #e0f7fa, #ffffff);
+  color: #003366;
+  padding: 0;
+  margin: 0;
+}
+a {
+  display: inline-block;
+  margin-top: 1rem;
+  background: #0077cc;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 8px;
+}
+a:hover {
+  background: #005fa3;
+}
